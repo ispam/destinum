@@ -5,7 +5,7 @@ Static web page for my personal website.
 * Ruby on Rails
 
 == Server
-* [Heroku] (https://destinum.herokuapp.com/)
+[Heroku] (https://destinum.herokuapp.com/)
 
 == License
-**No license**
+No license
