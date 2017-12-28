@@ -1,3 +1,11 @@
 === Destinum
-Página estática para mi servidor utilizando Ruby on Rails.
+Static web page for my personal website.
 
+== Built-With
+* Ruby on Rails
+
+== Server
+* [Heroku] (https://destinum.herokuapp.com/)
+
+== License
+**No license**
